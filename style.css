@@ -3,9 +3,7 @@ body{
     margin: 0;
 }
 section{
-    height: 900px;
-    padding-bottom: 5px;
-    margin: 0;
+    height: 700px;
 }
 .half-width{
     width:40%;
@@ -53,3 +51,47 @@ h1 span{
     padding-right: 180px;
     text-align: justify;
 }
+.recipies{
+    text-align: center;
+}
+.recipies p{
+    padding-left: 400px;
+    padding-right: 400px;
+    margin-bottom:30px;
+}
+.three-quarter-width{
+    width: 27%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+    height: 700px;
+}
+.recipie-breakdown{
+    
+}
+.recipie-breakdown div{
+    box-shadow: 5px 7px 40px gray;
+    border-radius: 30px;
+    height: max-content;
+}
+.recipie-images img{
+    width: 60%;
+}
+/*
+#recipie-one{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    border-radius: 30px;
+}
+#recipie-two{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+#recipie-three{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+} */
+
