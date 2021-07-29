@@ -41,7 +41,8 @@ h1 span{
 }
 .about-us-area{
     background-image: url("images/middle-banner-bg.png");
-    background-repeat: no-repeat;
+    background-repeat:no-repeat;
+    background-size: 100%;
     
 }
 #about-content{
