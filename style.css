@@ -52,47 +52,34 @@ h1 span{
     padding-right: 180px;
     text-align: justify;
 }
-.recipies{
+.recipies h1{
     text-align: center;
 }
 .recipies p{
+    text-align: center;
     padding-left: 400px;
     padding-right: 400px;
-    margin-bottom:30px;
+    margin-bottom:50px;
 }
 .three-quarter-width{
-    width: 27%;
+    width: 20%;
     float: left;
     margin-left: 3%;
     padding-left: 2%;
     height: 700px;
-}
-.recipie-breakdown{
-    
+    border-radius: 30px;
+    box-shadow: 2px 3px 5px lightsalmon;
 }
 .recipie-breakdown div{
-    box-shadow: 5px 7px 40px gray;
     border-radius: 30px;
     height: max-content;
 }
+.recipie-images{
+    padding-left:2%;
+    padding-top: 30px;
+}
+
 .recipie-images img{
-    width: 60%;
+    width: 90%;
 }
-/*
-#recipie-one{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, lightsalmon, tomato);
-    border-image-slice: 1;
-    border-radius: 30px;
-}
-#recipie-two{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, blue, cyan);
-    border-image-slice: 1;
-}
-#recipie-three{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, blue, cyan);
-    border-image-slice: 1;
-} */
 
